@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: biteexpress-discovery
+  data:
+    mongodb:
+      uri: ${MONGODB_URI:mongodb://localhost:27017/biteexpress}
+
+app:
+  default-tenant: biteexpress
+  seed:
+    enabled: ${SEED_ENABLED:true}
+    path: ${SEED_PATH:data/zomato.csv}
+  search:
+    best-min-votes: 20      # "best" queries ignore restaurants with fewer votes (noisy ratings)
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info

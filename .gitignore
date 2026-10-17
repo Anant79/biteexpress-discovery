@@ -1,0 +1,6 @@
+target/
+.idea/
+*.iml
+.vscode/
+# Kaggle file is large and licensed: download it yourself (see README)
+data/zomato.csv
