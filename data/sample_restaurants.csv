@@ -1,0 +1,12 @@
+Restaurant ID,Restaurant Name,Country Code,City,Address,Locality,Locality Verbose,Longitude,Latitude,Cuisines,Average Cost for two,Currency,Has Table booking,Has Online delivery,Is delivering now,Switch to order menu,Price range,Aggregate rating,Rating color,Rating text,Votes
+900001,Sample Dosa Junction,1,Gurgaon,"Shop 12, Sector 29 Market, Gurgaon",Sector 29,"Sector 29, Gurgaon",77.0628,28.4676,"South Indian, North Indian",400,Indian Rupees(Rs.),No,Yes,No,No,1,4.3,Green,Very Good,520
+900002,Sample Idli Express,1,Gurgaon,"Cyber Hub, DLF Cyber City, Gurgaon",DLF Cyber City,"DLF Cyber City, Gurgaon",77.0890,28.4950,South Indian,350,Indian Rupees(Rs.),No,Yes,Yes,No,1,4.6,Dark Green,Excellent,880
+900003,Sample Vada Pav Corner,1,Gurgaon,"Galleria Market, DLF Phase 4, Gurgaon",DLF Phase 4,"DLF Phase 4, Gurgaon",77.0880,28.4670,"Street Food, Fast Food",200,Indian Rupees(Rs.),No,Yes,Yes,No,1,4.1,Green,Very Good,310
+900004,Sample Tandoor House,1,Gurgaon,"Golf Course Road, Gurgaon",Golf Course Road,"Golf Course Road, Gurgaon",77.1010,28.4430,"North Indian, Mughlai",1200,Indian Rupees(Rs.),Yes,Yes,No,No,3,3.8,Yellow,Good,240
+900005,Sample Dragon Wok,1,Gurgaon,"Sector 14 Market, Gurgaon",Sector 14,"Sector 14, Gurgaon",77.0330,28.4710,"Chinese, Asian",900,Indian Rupees(Rs.),Yes,Yes,No,No,2,3.5,Yellow,Good,95
+900006,Sample Pasta Lab,1,Gurgaon,"Sector 54, Gurgaon",Sector 54,"Sector 54, Gurgaon",77.0960,28.4420,"Italian, Continental",1500,Indian Rupees(Rs.),Yes,No,No,No,3,4.6,Dark Green,Excellent,410
+900007,Sample Chaat Bazaar,1,New Delhi,"Connaught Place, New Delhi",Connaught Place,"Connaught Place, New Delhi",77.2167,28.6315,"Street Food, North Indian",300,Indian Rupees(Rs.),No,Yes,Yes,No,1,4.4,Green,Very Good,1200
+900008,Sample Filter Coffee House,1,New Delhi,"Hauz Khas Village, New Delhi",Hauz Khas,"Hauz Khas, New Delhi",77.1950,28.5535,"South Indian, Beverages",250,Indian Rupees(Rs.),No,No,No,No,1,3.9,Yellow,Good,60
+900009,Sample Marine Drive Grill,1,Mumbai,"Marine Drive, Mumbai",Marine Drive,"Marine Drive, Mumbai",72.8228,18.9440,"Seafood, North Indian",1800,Indian Rupees(Rs.),Yes,Yes,No,No,4,4.0,Green,Very Good,150
+900010,Sample No Coordinates Cafe,1,Gurgaon,"Sector 50, Gurgaon",Sector 50,"Sector 50, Gurgaon",0,0,Cafe,500,Indian Rupees(Rs.),No,No,No,No,2,0,White,Not rated,0
+900011,Sample Lion City Noodles,184,Singapore,"Orchard Road, Singapore",Orchard,"Orchard, Singapore",103.8198,1.3521,Chinese,20,Singapore Dollar($),No,No,No,No,2,3.7,Yellow,Good,80
